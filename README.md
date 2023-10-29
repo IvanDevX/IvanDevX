@@ -3,7 +3,7 @@
 
 ## About me
 
-- 👩‍🎓 Estudiante Automata
+- 👩‍🎓 Estudiante Autodidacta
 - 🏫 Titulo FP2 : DAW
 - 💟 Me gusta ver películas, jugar a videojuegos y escribir código 
 - 🧠 Estoy explorando el mundo del desarrollo Web
